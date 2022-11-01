@@ -1,8 +1,8 @@
-1. Website Name: [Dev To](https://dev.to/)
+# 1. Website Name: [Dev To](https://dev.to/)
 
 ### Topics
 
-- Query Selector, Inner HTML
+    Query Selector, Inner HTML
 
 ### Sample Image
 
@@ -10,11 +10,7 @@
 
 ### Tasks
 
-Target the Top description div change the DEV Community to <Your_Name> and description to your passion
-
-### Desired Output
-
-![Output](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_reqOutput.png)
+    Target the Top description div change the DEV Community to <Your_Name> and description to your passion
 
 ### Process
 
@@ -24,3 +20,25 @@ Target the Top description div change the DEV Community to <Your_Name> and descr
 ### Output
 
 ![Output](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_Output.png)
+
+# 2. Website Name: [OnePlus](https://www.oneplus.in/support)
+
+### Topics
+
+     Query Selector, InnerText
+
+### Sample Image
+
+![Sample One](02_images\02_original.png)
+
+### Tasks
+
+      Change the contact number
+
+### Process
+
+![Process](02_images\02_process.png)
+
+### Output
+
+![Output](02_images\02_output.png)
