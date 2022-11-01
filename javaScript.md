@@ -29,7 +29,7 @@
 
 ### Sample Image
 
-![Sample One](02_images\02_original.png)
+![Sample One](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/02_images/02_original.png)
 
 ### Tasks
 
@@ -37,8 +37,8 @@
 
 ### Process
 
-![Process](02_images\02_process.png)
+![Process](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/02_images/02_process.png)
 
 ### Output
 
-![Output](02_images\02_output.png)
+![Output](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/02_images/02_output.png)
