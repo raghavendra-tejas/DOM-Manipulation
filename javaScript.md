@@ -6,7 +6,7 @@
 
 ### Sample Image
 
-![Sample One](.\01_images\01_original.png)
+![Sample One](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_original.png)
 
 ### Tasks
 
@@ -14,13 +14,13 @@ Target the Top description div change the DEV Community to <Your_Name> and descr
 
 ### Desired Output
 
-![Output](.\01_images\01_reqOutput.png)
+![Output](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_reqOutput.png)
 
 ### Process
 
-![Process](.\01_images\01_answer1.png)
-![Process2](.\01_images\01_answer2.png)
+![Process](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_answer1.png)
+![Process2](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_answer2.png)
 
 ### Output
 
-![Output](.\01_images\01_Output.png)
+![Output](https://github.com/raghavendra-tejas/DOM-Manupulation/blob/main/01_images/01_Output.png)
